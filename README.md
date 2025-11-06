@@ -45,7 +45,7 @@ It simulates a full QWERTY keyboard layout with interactive buttons and real-tim
 
 ## 📸 Screenshots
 
-![App Interface](7468307.png)
+![App Interface](Ekran görüntüsü 2025-11-06 135101.png)
 
 ## 📁 File Structure
 
@@ -105,7 +105,7 @@ It simulates a full QWERTY keyboard layout with interactive buttons and real-tim
 
 ## 📸 صور من التطبيق
 
-![واجهة التطبيق](7468307.png)
+![واجهة التطبيق](Ekran görüntüsü 2025-11-06 135101.png)
 
 ## 📁 هيكل الملفات
 
